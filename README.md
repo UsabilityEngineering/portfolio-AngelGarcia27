@@ -6,7 +6,7 @@ I'm Angel Garcia, I'm a student at Chico State. Welcome to my UX porfolio.
 
 ## UX Team Project
 
-Coming soon....
+FoodExchange
 
 ## UX Journal
 
